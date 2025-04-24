@@ -19,7 +19,7 @@ export default function ProjectsSection() {
       tags: ["React.js", "MongoDB", "Express.js"],
       links: {
         demo: "#",
-        github: "#",
+        github: "https://github.com/Terfasmohamed/Front-end-HACKIN-SKY-2.0.git",
       },
     },
     {
@@ -33,7 +33,7 @@ export default function ProjectsSection() {
       tags: ["React.js"],
       links: {
         demo: "#",
-        github: "https://github.com/GesGrh",
+        github: "https://github.com/Terfasmohamed/team7-tc.git",
       },
     },
     {
@@ -46,7 +46,7 @@ export default function ProjectsSection() {
       tags: ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
       links: {
         demo: "#",
-        github: "#",
+        github: "https://github.com/Terfasmohamed/portfolio.git",
       },
     },
     {
@@ -60,7 +60,7 @@ export default function ProjectsSection() {
       tags: ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
       links: {
         demo: "#",
-        github: "https://github.com/DataHack",
+        github: "https://github.com/ScientificClubofESI/datahack_2.0-website.git",
       },
     },
   ]
